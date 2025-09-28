@@ -34,7 +34,14 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
           <br/></div>
     </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilver7&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilver7&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 baekjoon </h2> <div align= "center">
     
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmjmath002)](https://solved.ac/kmjmath002/)
+
+</div> 
+    </div>
