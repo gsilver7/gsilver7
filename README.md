@@ -34,13 +34,5 @@
           <img src="https://img.shields.io/badge/Recoil-0179f3?style=plastic&logo=Recoil&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
           </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">  </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
-    </div>
+
     
