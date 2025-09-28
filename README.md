@@ -24,18 +24,16 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Expo-000020?style=plastic&logo=Expo&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Recoil-0179f3?style=plastic&logo=Recoil&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
-          </div>
+          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
+          <br/></div>
     </div>
-    <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilver7&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
