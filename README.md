@@ -8,8 +8,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=NestJS&logoColor=white">
          <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">  
