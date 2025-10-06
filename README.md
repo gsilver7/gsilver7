@@ -32,4 +32,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmjmath002)](https://solved.ac/kmjmath002/)
 
 </div> 
-    </div>
+
+## 💻 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/gsilver7">
+    <img src="https://github-readme-stats.vercel.app/api?username=gsilver7&show_icons=true&theme=radical" alt="gsilver7's GitHub stats"/>
+  </a>
+</div>
+</div>
