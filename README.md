@@ -40,4 +40,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gsilver7&show_icons=true&theme=radical" alt="gsilver7's GitHub stats"/>
   </a>
 </div>
-</div>
