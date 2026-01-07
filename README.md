@@ -35,6 +35,6 @@
 ## 💻 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/gsilver7" alt="gsilver7's metrics" />
+    <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=gsilver7&show_icons=true&theme=radical" />
 </div>
 </div>
