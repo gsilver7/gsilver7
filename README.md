@@ -34,7 +34,7 @@
 
 <div align= "center">
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmjmath002)](https://solved.ac/kmjmath003/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmjmath003)](https://solved.ac/kmjmath003/)
 
 </div> 
 
